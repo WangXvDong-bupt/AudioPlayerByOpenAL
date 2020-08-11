@@ -30,7 +30,7 @@ int main(int argc, char* argv[])
 
 
 	cout << "please input url:";
-	//cin >> filepath;
+	cin >> filepath;
 	AudioPlayer audio;
 	audio.openFile(filepath, AVMEDIA_TYPE_AUDIO);
 	audio.audioSetting();
