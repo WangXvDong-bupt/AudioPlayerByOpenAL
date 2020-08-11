@@ -1,0 +1,3 @@
+D:/保研实习/PlayerByOpenAL/out/build/x64-Debug/CMakeFiles/PlayerByOpenAL.dir
+D:/保研实习/PlayerByOpenAL/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/保研实习/PlayerByOpenAL/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
